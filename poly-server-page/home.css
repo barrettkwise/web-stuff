@@ -1,0 +1,29 @@
+@@charset "UTF-8";
+
+/* Image Styles */
+img.p {
+  height: 50px;
+  width: 100px;
+  border-width: thick;
+  border-color: black;
+}
+p.aligncenter {
+  text-align: center;
+}
+
+/* Header and Head Styles */
+header {
+  text-align: center;
+  color: black;
+}
+head {
+  color: black;
+}
+a {
+  color: black;
+}
+
+/* Body Styles */
+body {
+  background-color: grey;
+}
